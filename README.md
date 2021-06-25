@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mazeez1, my name is Muhamamd Azeez I was born 
+- 👋 Hi, I’m @mazeez1, my name is Muhamamd Azeez I was born Mississippi 
 - 👀 I’m interested in ...Fitness, history, all types of food, soccer, string instruments, real time strategy games, languages and soccer
 - 🌱 I’m currently learning ...Web dev(HTML, php, css, js, json, ajax, etc
 - 💞️ I’m looking to collaborate on ...Nothing at the moment! 
